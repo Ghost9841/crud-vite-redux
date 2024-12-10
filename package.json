@@ -1,0 +1,15 @@
+{
+  "name": "crud-backend-express",
+  "version": "1.0.0",
+  "description": "Crud Of Backend Done with Express JS",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ghost",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
